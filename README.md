@@ -247,10 +247,4 @@ Postman was used to test REST APIs.
 
 ---
 
-## Author
 
-Name: __________________
-
-Department: __________________
-
-Course: Spring Boot
